@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "CSS - Responsive Web Page",
+        "dueDate": "2024-02-24",
+        "percentComplete": 0.5
+    },
+    {
+        "id": 2,
+        "title": "MVC - DeckMaster",
+        "dueDate": "2024-02-11",
+        "percentComplete": 0.7
+    },
+    {
+        "id": 3,
+        "title": "React - Movie Project",
+        "dueDate": "2024-02-24",
+        "percentComplete": 0.8
+    },
+    {
+        "id": 4,
+        "title": "Bun/Hono Expense App Part 1",
+        "dueDate": "2024-02-08",
+        "percentComplete": 1
+    }
+]
