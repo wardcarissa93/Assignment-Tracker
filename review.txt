@@ -1,0 +1,22 @@
+
+    Functionality of the Vue.js component : 4/4
+    Effectiveness of the UI/UX : 2/2
+    Code cleanliness and organization: 2/2
+    Collaboration effort and peer review completion: 2/2
+
+    Comments : 
+    
+   1. I like how the code is organized. It's more intuitive to have the template 
+    first and then the script and styles. I think this is the convention too!
+
+   2. I like how you have a third toggle option for seeing just in-progress projects.
+
+   3. The only suggestion is to have a more intuitive way to have the user know that 
+   they have three toggle options.
+
+   Awesome work!
+
+   Also, thanks for your helpful peer review!
+
+
+
